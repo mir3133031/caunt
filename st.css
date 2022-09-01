@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Nunito;
+}
+
+body {
+    background-color: #13152A;
+    height: 1100px ;
+
+}
+
+.caunt {
+    margin: 0 auto;
+    height: 550px;
+    width: 490px;
+    border-radius: 8px;
+    background-color: #0775DC;
+}
+
+.container {
+    margin: 200px auto;
+}
+
+.cauntHelp {
+    margin: -450px auto;
+    
+    height: 400px;
+    width: 550px;
+    border-radius: 8px;
+    background-color: #181C37;
+    
+}
+
+.btn-general {
+    border-radius: 7px;
+    height: 50px;
+    width: 90px;
+    border: #0775DC solid 4px;
+}
+
+.btAnew {
+    background-color: #181C37;
+}
+
+.btPlus {
+    background-color: #0775DC;
+}
+
+.btMinus {
+    background-color: #0775DC;
+}
+
+.btRandom {
+    background-color: #181C37;
+}
+
+
+.boxForBt {
+    justify-content: space-evenly;
+    display: flex;
+    margin: 140px auto;
+    height: 150px;
+    width: 400;
+}
+
+.num {
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.num p {
+
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 160px;
+    color: white;
+}
+.btn-num{
+    margin-top: -18px;
+    font-weight: 400;
+    font-size: 53px;
+    color:white ;
+}
